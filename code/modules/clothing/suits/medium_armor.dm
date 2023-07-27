@@ -565,7 +565,7 @@
 	icon_state = "ncr_infantry_vest"
 	item_state = "ncr_infantry_vest"
 	armor = ARMOR_VALUE_MEDIUM
-	armor_tokens = list(ARMOR_MODIFIER_DOWN_MELEE_T1, ARMOR_MODIFIER_DOWN_BULLET_T1)		//Too strong to give to Troopers vs primes witohut this.
+	armor_tokens = list(ARMOR_MODIFIER_DOWN_MELEE_T1, ARMOR_MODIFIER_DOWN_LASER_T1)		//Too strong to give to Troopers vs primes witohut this.
 
 /obj/item/clothing/suit/armor/medium/vest/ncr/mant
 	name = "NCR mantle vest"
