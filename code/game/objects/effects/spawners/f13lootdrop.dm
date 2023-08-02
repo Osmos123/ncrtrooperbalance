@@ -372,7 +372,7 @@
 	name = "tier 4 armor"
 	loot = list(
 				/obj/effect/spawner/bundle/f13/armor/t45b_salvaged,
-				/obj/effect/spawner/bundle/f13/armor/riot/elite,
+				/obj/effect/spawner/bundle/f13/armor/riot
 				/obj/effect/spawner/bundle/f13/armor/riot/police,
 				/obj/effect/spawner/bundle/f13/armor/combat/mk2,
 				/obj/effect/spawner/bundle/f13/armor/combat/mk2/dark,
@@ -385,7 +385,7 @@
 				/obj/item/clothing/head/helmet/f13/heavy/salvaged_pa/t45b
 				)
 
-/obj/effect/spawner/bundle/f13/armor/riot/elite
+/obj/effect/spawner/bundle/f13/armor/riot
 	name = "elite riot armor spawner"
 	items = list(
 				/obj/item/clothing/suit/armor/heavy/riot/elite,
