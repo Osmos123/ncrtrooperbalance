@@ -372,7 +372,7 @@
 	name = "tier 4 armor"
 	loot = list(
 				/obj/effect/spawner/bundle/f13/armor/t45b_salvaged,
-				/obj/effect/spawner/bundle/f13/armor/riot
+				/obj/effect/spawner/bundle/f13/armor/riot,
 				/obj/effect/spawner/bundle/f13/armor/riot/police,
 				/obj/effect/spawner/bundle/f13/armor/combat/mk2,
 				/obj/effect/spawner/bundle/f13/armor/combat/mk2/dark,
